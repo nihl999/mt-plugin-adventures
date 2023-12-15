@@ -1,0 +1,7 @@
+name: SuperJump
+version: ${project.version}
+main: SuperJump.SuperJump
+author: nihl999
+api-version: "1.13"
+load: POSTWORLD
+softdepend:
