@@ -1,0 +1,5 @@
+name: new-year
+version: '1.0-SNAPSHOT'
+main: io.github.nihl999.newyearplugin.NewYear
+api-version: '1.20'
+load: 'STARTUP'
